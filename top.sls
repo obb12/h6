@@ -1,0 +1,3 @@
+base:
+  'omar-VirtualBox':
+    - lamp
